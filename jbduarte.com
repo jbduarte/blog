@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Quasi-Random Macroeconomics | Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.</title>
+<title>About | Quasi-Random Macroeconomics</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Quasi-Random Macroeconomics" />
+<meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics." />
 <meta property="og:description" content="Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics." />
-<link rel="canonical" href="https://jbduarte.github.io/blog/404.html" />
-<meta property="og:url" content="https://jbduarte.github.io/blog/404.html" />
+<link rel="canonical" href="https://jbduarte.github.io/blog/jbduarte.com" />
+<meta property="og:url" content="https://jbduarte.github.io/blog/jbduarte.com" />
 <meta property="og:site_name" content="Quasi-Random Macroeconomics" />
 <script type="application/ld+json">
-{"headline":"Quasi-Random Macroeconomics","description":"Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.","@type":"WebPage","url":"https://jbduarte.github.io/blog/404.html","@context":"https://schema.org"}</script>
+{"headline":"About","description":"Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.","@type":"WebPage","url":"https://jbduarte.github.io/blog/jbduarte.com","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://jbduarte.github.io/blog/feed.xml" title="Quasi-Random Macroeconomics" /><!-- the google_analytics_id gets auto inserted from the config file -->
 
@@ -22,17 +22,17 @@
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-62391102-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
 
 <link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Quasi-Random Macroeconomics | Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.</title>
+<title>About | Quasi-Random Macroeconomics</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Quasi-Random Macroeconomics" />
+<meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics." />
 <meta property="og:description" content="Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics." />
-<link rel="canonical" href="https://jbduarte.github.io/blog/404.html" />
-<meta property="og:url" content="https://jbduarte.github.io/blog/404.html" />
+<link rel="canonical" href="https://jbduarte.github.io/blog/jbduarte.com" />
+<meta property="og:url" content="https://jbduarte.github.io/blog/jbduarte.com" />
 <meta property="og:site_name" content="Quasi-Random Macroeconomics" />
 <script type="application/ld+json">
-{"headline":"Quasi-Random Macroeconomics","description":"Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.","@type":"WebPage","url":"https://jbduarte.github.io/blog/404.html","@context":"https://schema.org"}</script>
+{"headline":"About","description":"Personal blog of João B. Duarte, an Assistant Professor of Economics at Nova School of Business and Economics.","@type":"WebPage","url":"https://jbduarte.github.io/blog/jbduarte.com","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -90,26 +90,7 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
-
+        
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/blog/"></data>
