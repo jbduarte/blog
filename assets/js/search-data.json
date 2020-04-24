@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "",
+            "title": "FAVAR - BBE (2005) Replication in R",
             "content": "The FAVAR model is represented by the following system: . $$ X_t = Lambda^f F_t + Lambda^y Y_t + e_t $$$$ begin{bmatrix} F_t Y_t end{bmatrix} = Psi(L) begin{bmatrix} F_{t-1} Y_{t-1} end{bmatrix} + v_t $$where $F_t$ is the collection of variables that is unobservable, while $Y_t$ is is of the observable. For further description of the FAVAR model and its properties please see BBE (QJE, 2005) .",
-            "url": "https://jbduarte.github.io/blog/2020/04/24/2020-04-24-BBE.html",
-            "relUrl": "/2020/04/24/2020-04-24-BBE.html",
+            "url": "https://jbduarte.github.io/blog/time%20series/r/favar/2020/04/24/BBE.html",
+            "relUrl": "/time%20series/r/favar/2020/04/24/BBE.html",
             "date": " • Apr 24, 2020"
         }
         
