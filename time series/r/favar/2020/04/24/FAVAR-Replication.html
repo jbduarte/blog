@@ -873,9 +873,9 @@ $$
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>where $L = \begin{bmatrix} L^1 \\ L^2 \end{bmatrix}$ is the lower triangle matrix from the Cholesky decomposition. Let $\Lambda = \begin{bmatrix} \Lambda^f \\ \Lambda^y \end{bmatrix}$, we have that:</p>
 $$
-E_t[X_{t+1} - X_t] =  \Lambda L E_t[ \varepsilon_t]  +  E_t[e_{t+1}]
+E_t[X_{t+1} - X_t] =  \Lambda L E_t[ \varepsilon_{t+1}]  +  E_t[e_{t+1}]
 $$$$
-E_t[X_{t+1} - X_t] =  \Psi(0) E_t[ \varepsilon_t] +  E_t[e_{t+1}]
+E_t[X_{t+1} - X_t] =  \Psi(0) E_t[ \varepsilon_{t+1}] +  E_t[e_{t+1}]
 $$$$
 var(E_t[X_{t+1} - X_t]) =  \Psi(0) \Sigma_\varepsilon (\Psi(0)))'  +  \sigma^2_e
 $$<p>where $\Sigma_\varepsilon = I $ because of the Cholesky decomposition, and $\Psi(0)$ is a 1x4 vector with the contemporaneous response of X_t to all structural shocks. Hence, the total variance of each observable variable $X_t$ is just the sum of the squared impulse response functions plus the variance of the measurement error.</p>
